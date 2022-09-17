@@ -1,0 +1,4 @@
+
+# Ignore the node_modulees folder, e too dey use data!!!
+
+node_modules;
